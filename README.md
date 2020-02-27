@@ -12,4 +12,4 @@ This Scraper scrapes hotel name, phone, address, website, direction, description
 * pip install -r requirements.txt
 * python google_search_hotels_scraper.py
 
-made by: https://w-e-ll.com/cv/
+made by: https://w-e-ll.com
