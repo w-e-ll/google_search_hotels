@@ -2,4 +2,4 @@ lxml==4.3.2
 psycopg2-binary==2.7.7
 PySocks==1.6.8
 selenium==3.141.0
-urllib3==1.24.1
+urllib3==1.26.5
